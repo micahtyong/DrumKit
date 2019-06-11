@@ -33,3 +33,7 @@ The motive of this project was to implement a very basic drum kit application wh
 
 Initial project idea and spec credits go to Berkeley's iOS Decal 2019. 
 Full implementation carried out by Micah Yong. 
+
+## Support ## 
+
+If you find any of my projects helpful/inspiring and would like to support me, please do so [here](https://venmo.com/Micah-Yong "Venmo")
